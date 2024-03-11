@@ -1,0 +1,1 @@
+### ChatBot using Retrieval Augmented Generation (RAG) Mechanism and BioMistral-7B 
