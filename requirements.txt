@@ -59,7 +59,7 @@ langdetect==1.0.9
 langsmith==0.1.5
 layoutparser==0.3.4
 llama_cpp_python==0.2.44
-lxml==5.1.0
+lxml<=5
 Markdown==3.5.2
 MarkupSafe==2.1.5
 marshmallow==3.20.2
@@ -105,7 +105,6 @@ python-magic==0.4.27
 python-multipart==0.0.9
 python-pptx==0.6.23
 pytz==2024.1
-pywin32==306
 PyYAML==6.0.1
 qdrant-client==1.7.3
 rapidfuzz==3.6.1
