@@ -1,0 +1,876 @@
+Oesophago-gastric cancer:
+assessment and
+management in adults
+NICE guideline
+Published: 24 January 2018
+Last updated: 4 July 2023
+www.nice.org.uk/guidance/ng83
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+Your responsibility
+The recommendations in this guideline represent the view of NICE, arrived at after careful
+consideration of the evidence available. When exercising their judgement, professionals
+and practitioners are expected to take this guideline fully into account, alongside the
+individual needs, preferences and values of their patients or the people using their service.
+It is not mandatory to apply the recommendations, and the guideline does not override the
+responsibility to make decisions appropriate to the circumstances of the individual, in
+consultation with them and their families and carers or guardian.
+All problems (adverse events) related to a medicine or medical device used for treatment
+or in a procedure should be reported to the Medicines and Healthcare products Regulatory
+Agency using the Yellow Card Scheme.
+Local commissioners and providers of healthcare have a responsibility to enable the
+guideline to be applied when individual professionals and people using services wish to
+use it. They should do so in the context of local and national priorities for funding and
+developing services, and in light of their duties to have due regard to the need to eliminate
+unlawful discrimination, to advance equality of opportunity and to reduce health
+inequalities. Nothing in this guideline should be interpreted in a way that would be
+inconsistent with complying with those duties.
+Commissioners and providers have a responsibility to promote an environmentally
+sustainable health and care system and should assess and reduce the environmental
+impact of implementing NICE recommendations wherever possible.
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 2 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+Contents
+Overview .....................................................................................................................................
+
+4
+
+Who is it for? ..........................................................................................................................................
+
+4
+
+Recommendations ......................................................................................................................
+
+5
+
+1.1 Information and support ..................................................................................................................
+
+5
+
+1.2 Organisation of services .................................................................................................................
+
+7
+
+1.3 Assessment after diagnosis ...........................................................................................................
+
+7
+
+1.4 Radical treatment ............................................................................................................................
+
+8
+
+1.5 Palliative management .................................................................................................................... 10
+1.6 Nutritional support .......................................................................................................................... 14
+1.7 Follow-up .......................................................................................................................................... 14
+
+Recommendations for research ................................................................................................ 16
+1 External beam radiotherapy in addition to stenting to prevent bleeding ..................................... 16
+2 Enteral feeding for people with luminal obstruction and dysphagia ............................................. 16
+3 Radical treatment of squamous cell carcinoma of the oesophagus ............................................. 17
+4 Radical treatment of T1bN0 adenocarcinoma of the oesophagus ............................................... 17
+5 Nutritional support after radical surgery ......................................................................................... 18
+6 Jejunostomy support after radical surgery ..................................................................................... 18
+7 Follow-up after treatment with curative intent ............................................................................... 19
+
+Rationale and impact.................................................................................................................. 20
+Luminal obstruction in oesophageal and oesophago-gastric junctional cancer ............................ 20
+
+Context ........................................................................................................................................ 22
+Finding more information and committee details .................................................................... 23
+Update information .................................................................................................................... 24
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 3 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+This guideline is the basis of QS176.
+This guideline should be read in conjunction with NG231.
+
+Overview
+This guideline covers assessing and managing oesophago-gastric cancer in adults,
+including radical and palliative treatment and nutritional support. It aims to reduce variation
+in practice through better organisation of care and support, and improve quality of life and
+survival by giving advice on the most suitable treatments depending on cancer type, stage
+and location.
+A table of NHS England interim treatment regimens gives possible alternative treatment
+options for use during the COVID-19 pandemic to reduce infection risk. This may affect
+decisions for patients with oesophago-gastric cancer. See the COVID-19 rapid guideline:
+delivery of systemic anticancer treatments for more details.
+
+Who is it for?
+• Healthcare professionals involved in the care of people with oesophago-gastric cancer
+• Commissioners of oesophago-gastric cancer services
+• People with oesophago-gastric cancer, their family members and carers, and the
+public
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 4 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+Recommendations
+People have the right to be involved in discussions and make informed decisions
+about their care, as described in NICE's information on making decisions about your
+care.
+Making decisions using NICE guidelines explains how we use words to show the
+strength (or certainty) of our recommendations, and has information about
+prescribing medicines (including off-label use), professional guidelines, standards
+and laws (including on consent and mental capacity), and safeguarding.
+
+1.1
+
+Information and support
+
+1.1.1
+
+Offer all people with oesophago-gastric cancer access to an oesophagogastric clinical nurse specialist through the person's multidisciplinary
+team. [2018]
+
+1.1.2
+
+Make sure the person with oesophago-gastric cancer is given
+information, in a format that is appropriate for them, to take away and
+review in their own time after you have spoken to them about their
+cancer and care. [2018]
+
+1.1.3
+
+Inform people with oesophago-gastric cancer about peer-to-peer local
+or national support groups for them to join if they wish. [2018]
+
+1.1.4
+
+Provide psychosocial support to the person with oesophago-gastric
+cancer and those important to them (as appropriate). Cover:
+• the potential impact on family life, changing roles and relationships
+• uncertainty about the disease course and prognosis
+• concerns over heredity of cancer, recovery and recurrence
+• where they can get further support. [2018]
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 5 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+Radical treatment
+1.1.5
+
+Provide information about possible treatment options, such as surgery,
+radiotherapy or chemotherapy, in all discussions with people with
+oesophago-gastric cancer who are going to have radical treatment. Make
+sure the information is consistent and covers:
+• treatment outcomes (prognosis and future treatments)
+• recovery, including the consequences of treatment and how to manage them
+• nutrition and lifestyle changes.
+Follow the recommendations in NICE's guideline on patient experience in adult
+NHS services. [2018]
+
+Palliative management
+1.1.6
+
+For people with oesophago-gastric cancer who can only have palliative
+management, offer personalised information and support to them and
+the people who are important to them (as appropriate), at a pace that is
+suitable for them. This could include information on:
+• life expectancy, if the person has said they would like to know about this
+• the treatment and care available, and how to access this both now and for
+future symptoms
+• holistic issues (such as physical, emotional, social, financial and spiritual
+issues), and how they can get support and help
+• dietary changes, and how to manage these and access specialist dietetic
+support
+• which sources of information in the public domain give good advice about the
+issues listed above.
+Follow the recommendations in NICE's guideline on patient experience in adult
+NHS services. [2018]
+
+1.1.7
+
+For people with oesophago-gastric cancer who can only have palliative
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 6 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+management, consider providing support from:
+• a specialist cancer care dietitian
+• a specialist palliative care team
+• a peer support group, if available. [2018]
+1.1.8
+
+For people with oesophago-gastric cancer who are having palliative care,
+follow the recommendations in NICE's guideline on improving supportive
+and palliative care for adults with cancer. [2018]
+
+1.2
+
+Organisation of services
+
+1.2.1
+
+Review the treatment of people with confirmed oesophago-gastric
+cancer in a multidisciplinary meeting that includes an oncologist and
+specialist radiologist with an interest in oesophago-gastric cancer.
+[2018]
+
+1.2.2
+
+Review the treatment of people with confirmed localised, non-metastatic
+oesophago-gastric cancer in a specialist oesophago-gastric cancer
+multidisciplinary meeting. [2018]
+
+1.2.3
+
+Ensure curative oesophago-gastric resections are performed in a
+specialist surgical unit by specialist oesophago-gastric surgeons. [2018]
+
+1.3 Assessment after diagnosis
+Determining suitability for radical treatment of
+histologically-confirmed oesophageal or oesophago-gastric
+junctional cancer after endoscopy and whole-body CT scan
+diagnosis
+1.3.1
+
+Offer F-18 FDG PET-CT to people with oesophageal and oesophagogastric junctional tumours that are suitable for radical treatment (except
+for T1a tumours). [2018]
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-andconditions#notice-of-rights).
+
+Page 7 of
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+1.3.2
+
+Do not offer endoscopic ultrasound only to distinguish between T2 to T3
+tumours in people with oesophageal and oesophago-gastric junctional
+tumours. [2018]
+
+1.3.3
+
+Only offer endoscopic ultrasound to people with oesophageal and
+oesophago-gastric junctional cancer when it will help guide ongoing
+management. [2018]
+
+1.3.4
+
+Only consider staging laparoscopy for people with oesophageal or
+oesophago-gastric junctional cancer when it will help guide ongoing
+management. [2018]
+
+Determining suitability for radical treatment of
+histologically-confirmed gastric cancer after endoscopy and
+whole-body CT scan diagnosis
+1.3.5
+
+Offer staging laparoscopy to all people with potentially curable gastric
+cancer. [2018]
+
+1.3.6
+
+Only consider endoscopic ultrasound for people with gastric cancer if it
+will help guide ongoing management. [2018]
+
+1.3.7
+
+Only consider F-18 FDG PET-CT in people with gastric cancer if
+metastatic disease is suspected and it will help guide ongoing
+management. [2018]
+
+HER2 testing in metastatic oesophago-gastric adenocarcinoma
+1.3.8
+
+Offer HER2 testing to people with metastatic oesophago-gastric
+adenocarcinoma (see the NICE technology appraisal guidance on
+trastuzumab for HER2-positive metastatic gastric cancer). [2018]
+
+1.4
+
+Radical treatment
+
+T1N0 oesophageal cancer
+1.4.1
+
+Offer endoscopic mucosal resection for staging for people with
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 8 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+suspected T1N0 oesophageal cancer. [2018]
+1.4.2
+
+For recommendations on stage 1 oesophageal adenocarcinoma, see
+NICE's guideline on Barrett's oesophagus and oesophageal
+adenocarcinoma: monitoring and management. [2018]
+
+1.4.3
+
+Offer people with T1bN0 squamous cell carcinoma of the oesophagus
+the choice of:
+• definitive chemoradiotherapy or
+• surgical resection.
+Only make this choice after the surgeon and oncologist have discussed the
+benefits, risks and treatment consequences of each option with the person and
+those who are important to them (as appropriate). [2018]
+
+Surgical treatment of oesophageal cancer
+1.4.4
+
+Consider an open or minimally invasive (including hybrid)
+oesophagectomy for surgical treatment of oesophageal cancer. [2018]
+
+Lymph node dissection in oesophageal and gastric cancer
+1.4.5
+
+When performing a curative gastrectomy for people with gastric cancer,
+consider a D2 lymph node dissection. [2018]
+
+1.4.6
+
+When performing a curative oesophagectomy for people with
+oesophageal cancer, consider two-field lymph node dissection. [2018]
+
+Localised oesophageal and oesophago-gastric junctional
+adenocarcinoma
+1.4.7
+
+For people with localised oesophageal and oesophago-gastric junctional
+adenocarcinoma (excluding T1N0 tumours) who are going to have
+surgical resection, offer a choice of:
+• chemotherapy, before or before and after surgery or
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 9 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+• chemoradiotherapy, before surgery.
+Make the choice after discussing the benefits, risks and treatment
+consequences of each option with the person and those important to them (as
+appropriate).
+Encourage people to join relevant clinical trials, if available. [2018]
+
+Gastric cancer
+1.4.8
+
+Offer chemotherapy before and after surgery to people with gastric
+cancer who are having radical surgical resection. [2018]
+
+1.4.9
+
+Consider chemotherapy or chemoradiotherapy after surgery for people
+with gastric cancer who did not have chemotherapy before surgery with
+curative intent. [2018]
+
+Squamous cell carcinoma of the oesophagus
+1.4.10
+
+Offer people with resectable non-metastatic squamous cell carcinoma of
+the oesophagus the choice of:
+• radical chemoradiotherapy or
+• chemoradiotherapy before surgical resection.
+Discuss the benefits, risks and treatment consequences of each option with
+the person and those who are important to them (as appropriate). [2018]
+
+1.5
+
+Palliative management
+
+Non-metastatic oesophageal cancer that is not suitable for
+surgery
+1.5.1
+
+Consider chemoradiotherapy for people with non-metastatic
+oesophageal cancer that can be encompassed within a radiotherapy
+field. [2018]
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 10 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+1.5.2
+
+When the cancer cannot be encompassed within a high-dose
+radiotherapy field, consider one or more of:
+• chemotherapy
+• local tumour treatment, including stenting or palliative radiotherapy
+• best supportive care.
+Discuss the benefits, risks and treatment consequences of each option with
+the person with oesophageal cancer and those who are important to them (as
+appropriate). [2018]
+
+1.5.3
+
+After a person with oesophageal cancer has had treatment, assess the
+tumour's response to chemotherapy or chemoradiotherapy and
+reconsider if surgery is an option. [2018]
+
+First-line palliative chemotherapy for locally advanced or
+metastatic oesophago-gastric cancer
+1.5.4
+
+Offer trastuzumab (in combination with cisplatin and capecitabine or
+5-fluorouracil) as a treatment option to people with HER2-positive
+metastatic adenocarcinoma of the stomach or oesophago-gastric
+junction (see also NICE's technology appraisal guidance on trastuzumab
+for the treatment of HER2-positive metastatic gastric cancer).
+In January 2018, this was an off-label use of cisplatin. See NICE's
+information on prescribing medicines. [2018]
+
+1.5.5
+
+Offer first-line palliative combination chemotherapy to people with
+advanced oesophago-gastric cancer who have a performance status 0
+to 2 and no significant comorbidities. Possible drug combinations
+include:
+• doublet treatment: 5-fluorouracil or capecitabine in combination with cisplatin
+or oxaliplatin
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 11 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+• triplet treatment: 5-fluorouracil or capecitabine in combination with cisplatin or
+oxaliplatin plus epirubicin.
+Discuss the benefits, risks and treatment consequences of each option with
+the person and those important to them (as appropriate).
+In January 2018, this was an off-label use of capecitabine, cisplatin, epirubicin
+and oxaliplatin. See NICE's information on prescribing medicines.
+For all NICE technology appraisal guidance on first-line palliative
+chemotherapy, see the NICE topic pages for oesophageal cancer and stomach
+cancer. [2018]
+
+Second-line palliative chemotherapy and subsequent therapy for
+locally advanced or metastatic oesophago-gastric cancer
+1.5.6
+
+Consider second-line palliative chemotherapy for people with
+oesophago-gastric cancer. [2018]
+
+1.5.7
+
+Discuss the risks, benefits and treatment consequences of second-line
+palliative chemotherapy for oesophago-gastric cancer with the person
+and those who are important to them (as appropriate). Cover:
+• how different treatments can have similar effectiveness but different side
+effects
+• how the treatments are given
+• if the person has any preference for one treatment over another. [2018]
+
+1.5.8
+
+Consider a clinical trial (if a suitable one is available) as an alternative to
+second-line chemotherapy for people with oesophago-gastric cancer.
+For NICE technology appraisal guidance on second-line palliative
+chemotherapy and subsequent therapy, see the NICE topic pages for
+oesophageal cancer and stomach cancer. The point at which to use
+genomic biomarker-based therapy in solid tumour treatment pathways is
+uncertain, see the NICE topic page on genomic biomarker-based cancer
+treatments. [2018]
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 12 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+Luminal obstruction in oesophageal and oesophago-gastric
+junctional cancer
+1.5.9
+
+Offer self-expanding stents to people with oesophageal and oesophagogastric junctional cancer who need immediate relief of dysphagia. [2018]
+
+1.5.10
+
+Offer self-expanding stents or radiotherapy to people with oesophageal
+and oesophago-gastric junctional cancer, depending on the degree of
+dysphagia and its impact on nutrition and quality of life, performance
+status and prognosis. [2018]
+
+1.5.11
+
+Do not routinely offer external beam radiotherapy after stenting for
+people with oesophageal and oesophago-gastric junctional cancer.
+[2023]
+
+1.5.12
+
+Consider external beam radiotherapy after stenting of oesophageal and
+oesophago-gastric junctional cancer for people with prolonged postinterventional bleeding or a known bleeding disorder. [2023]
+
+For a short explanation of why the committee made these recommendations and how
+they might affect practice, see the rationale and impact section on luminal obstruction
+in oesophageal and oesophago-gastric junctional cancer.
+Full details of the evidence and the committee's discussion are in evidence review A:
+management of luminal obstruction in adults with oesophageal cancer not amenable
+to treatment with curative intent.
+
+Outflow obstruction in gastric cancer
+1.5.13
+
+Offer uncovered self-expanding metal stents or palliative surgery to
+people with gastric cancer, depending on fitness to undergo surgery,
+prognosis and extent of disease. [2018]
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 13 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+1.6 Nutritional support
+Radical treatment
+1.6.1
+
+Offer nutritional assessment and tailored specialist dietetic support to
+people with oesophago-gastric cancer before, during and after radical
+treatments. [2018]
+
+1.6.2
+
+Offer immediate enteral or parenteral nutrition after surgery to people
+who are having radical surgery for oesophageal and oesophago-gastric
+junctional cancers. [2018]
+
+1.6.3
+
+For people with oesophago-gastric cancer, follow the recommendations
+in NICE's guideline on nutrition support for adults. [2018]
+
+Palliative care
+1.6.4
+
+Consider support from a specialist cancer-specific dietitian for people
+with oesophago-gastric cancer receiving palliative care. [2018]
+
+1.6.5
+
+Together with members of the multidisciplinary team and the hospital
+and community palliative care teams, tailor dietetic support to the person
+with oesophago-gastric cancer and their clinical situation. [2018]
+
+1.6.6
+
+For people with oesophago-gastric cancer, follow the recommendations
+in NICE's guideline on improving supportive and palliative care for adults
+with cancer. [2018]
+
+1.7
+
+Follow-up
+
+1.7.1
+
+For people who have no symptoms or evidence of residual disease after
+treatment for oesophago-gastric cancer with curative intent:
+• provide information about the symptoms of recurrent disease, and what to do if
+they develop these symptoms
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 14 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+• offer rapid access to the oesophago-gastric multidisciplinary team for review, if
+symptoms develop. [2018]
+1.7.2
+
+For people who have no symptoms or evidence of residual disease after
+treatment for oesophago-gastric cancer with curative intent, do not
+offer:
+• routine clinical follow-up solely for the detection of recurrent disease
+• routine radiological surveillance solely for the detection of recurrent disease.
+[2018]
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 15 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+Recommendations for research
+The guideline committee has made the following recommendations for research. The
+committee's full set of recommendations for research are detailed in the full guideline.
+
+1 External beam radiotherapy in addition to
+stenting to prevent bleeding
+What is the effectiveness and cost-effectiveness of external beam radiotherapy in addition
+to self-expanding stents to prevent prolonged bleeding after stent insertion in people with
+oesophago-gastric cancer who are undergoing palliative management of dysphagia due to
+luminal obstruction with no curative intent? [2023]
+
+2 Enteral feeding for people with luminal
+obstruction and dysphagia
+In people experiencing partial or complete luminal obstruction resulting from incurable
+oesophago-gastric cancer, is enteral feeding an effective and cost-effective method of
+preserving quality of life and survival, when the first-line management of dysphagia (for
+example, self-expanding stents) has failed or is contraindicated? [2023]
+
+For a short explanation of why the committee made these recommendations for
+research, see the rationale and impact section on luminal obstruction in oesophageal
+and oesophago-gastric junctional cancer.
+Full details of the evidence and the committee's discussion are in evidence review A:
+management of luminal obstruction in adults with oesophageal cancer not amenable
+to treatment with curative intent.
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 16 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+3 Radical treatment of squamous cell carcinoma of
+the oesophagus
+Does the addition of surgery to chemoradiotherapy improve disease-free and overall
+survival in people with squamous cell carcinoma of the oesophagus? [2018]
+
+Why this is important
+The aetiology of squamous cell carcinoma (SCC) of the oesophagus is changing. Patients
+with SCC are now fitter, with fewer comorbidities than in previous years. Standard radical
+treatment for SCC of the oesophagus is usually chemoradiotherapy, which is associated
+with a median survival of between 12 and 18 months. Given a fitter patient population,
+surgery may be a therapeutic option but its effectiveness in addition to
+chemoradiotherapy is unknown and a randomised controlled study to investigate whether
+the combination improves disease-free and overall survival would provide useful
+information to guide future clinical practice.
+
+4 Radical treatment of T1bN0 adenocarcinoma of
+the oesophagus
+What is the optimal treatment for T1bN0 adenocarcinoma of the oesophagus? [2018]
+
+Why this is important
+In patients with submucosal (T1b) N0 oesophageal adenocarcinoma (OAC), the associated
+risk of lymph node metastases is estimated to be between 4% for sub-mucosal 1 (sm1) and
+up to 16% for sm3 based on retrospective surgical data. The majority of patients with a
+submucosal T1bN0 OAC therefore currently have major surgical resection without
+detecting any cancer cells in the oesophagus or lymph nodes. Oesophagectomy is also a
+procedure associated with significant morbidity (up to 50%) and mortality (2% to 4%).
+In comparison, endoscopic mucosal resection (EMR) and endoscopic submucosal
+dissection (ESD) are techniques that can remove the submucosa with less morbidity and
+mortality than surgery and, providing there is no lymph node involvement, can lead to a
+cure. However, compared to surgery nodal involvement can only be assessed by F-18 FDG
+PET-CT scanning and endoscopic ultrasound (EUS), which may lead to under-treatment of
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 17 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+some patients with T1b disease.
+A study to assess which patients should have endoscopic therapy or surgery for T1bN0
+OAC would be useful, as this would help prevent both under- and over-treatment of this
+group of people. This could be a randomised controlled trial comparing surgery and
+endoscopic treatment.
+
+5 Nutritional support after radical surgery
+What is the optimal method of delivering nutritional support to adults after surgery with
+curative intent for oesophago-gastric cancer? [2018]
+
+Why this is important
+People who have surgery for oesophago-gastric cancer have a prolonged period without
+adequate oral intake after surgery. Oral, enteral and parenteral nutrition support strategies
+are used to support people during this time. Evidence suggests that providing some form
+of nutrition support improves surgical outcomes. However, which of these methods is the
+safest and most effective has not been determined and because of this, practice in this
+field varies nationally. A study to identify the best method of delivering safe and effective
+nutritional support interventions which aim to reduce post-operative complications in this
+population would help guide future clinical practice.
+
+6 Jejunostomy support after radical surgery
+What is the effectiveness of long-term jejunostomy support compared to intensive dietary
+counselling and support along with symptom management for people having radical
+surgery for oesophago-gastric cancer? [2018]
+
+Why this is important
+People who have had surgery for oesophago-gastric cancer have nutritional difficulties as
+a result of problems eating, ongoing symptoms, and side effects related to the surgery. It
+is well recognised that they have a poor quality of life. Most patients have adjuvant
+treatment, however their nutritional status may negatively impact on their ability to tolerate
+this, meaning treatment can be stopped early or not received. Jejunostomy feeding tubes
+are often used to provide nutrition support after discharge from hospital after surgery.
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 18 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+Some small studies have shown a benefit in terms of weight preservation, but none have
+shown that this leads to better recovery, tolerance of treatment or quality of life. Practice
+in this area varies greatly, with some centres placing jejunostomy tubes and continuing
+enteral feeding after discharge, some placing the jejunostomy tubes and not using them
+routinely and others not placing jejunostomy tubes at all. Studies should aim to identify if
+jejunostomy placement leads to clinical benefit in adults who have had surgery for
+oesophago-gastric cancer.
+
+7 Follow-up after treatment with curative intent
+Is the routine use of CT and tumour markers effective in detecting recurrent disease
+suitable for radical treatment in asymptomatic people who have had treatment for
+oesophago-gastric cancer with curative intent? [2018]
+
+Why this is important
+There is no clearly defined follow-up protocol for people with oesophago-gastric cancer
+treated radically. Detection of early recurrence potentially suitable for radical treatment
+offers the possibility of increased survival. However, the best methods of detecting
+recurrence are unclear and there is no evidence to show whether early detection leads to
+improved overall survival. The alternative is to wait until symptoms reoccur and then reevaluate the further treatment options available. Studies examining the role of screening in
+this scenario would show whether routine follow-up in asymptomatic people was effective
+at detecting recurrence and improving overall survival.
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 19 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+Rationale and impact
+This section briefly explains why the committee made the recommendations and how they
+might affect practice.
+
+Luminal obstruction in oesophageal and
+oesophago-gastric junctional cancer
+Why the committee made the recommendations
+Recommendations 1.5.9 to 1.5.12
+The committee did not find any new evidence that would affect recommendations 1.5.9
+and 1.5.10 and therefore did not update the recommendations made by the previous
+committee on the basis of the evidence they considered (see the previous full guideline
+from 2018).
+Most of the evidence considered by the committee did not show a difference between the
+effectiveness of different interventions for relieving dysphagia caused by luminal
+obstruction of the oesophagus in people with oesophageal and oesophago-gastric
+junctional cancer whose condition was not being treated with curative intent. A high
+quality, UK-based health technology assessment provided new evidence on external beam
+radiotherapy (EBRT) after stenting for people with dysphagia whose condition needed
+palliation.
+This study compared self-expanding metal stents (SEMS) alone to SEMS and adjuvant
+EBRT and concluded that the data could not differentiate between them for all outcomes
+considered in the evidence review. The committee agreed that they did not support the
+routine use of EBRT for people after stenting. However, the committee noted that there
+was some evidence of better outcomes for gastrointestinal-related bleeding. Although this
+was of low certainty, they agreed that from their experience EBRT helps to prevent
+bleeding. Therefore, they made a recommendation to consider EBRT for people with
+prolonged bleeding after stent insertion or a known bleeding disorder. Stopping bleeding is
+important to people who have incurable oesophageal and oesophago-gastric junctional
+cancer because it improves their quality of life. The committee made a recommendation
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 20 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+for research about the use of EBRT to prevent bleeding because there was not enough
+evidence to make a strong recommendation about it.
+The committee agreed that only offering EBRT after stent insertion to people with
+oesophageal and oesophago-gastric junctional cancer if they had prolonged bleeding or a
+known bleeding disorder would lead to more effective targeting of comparatively scarce
+EBRT services. Furthermore, it will reduce the treatment burden for people with
+oesophageal and oesophago-gastric junctional cancer who are not bleeding from the
+cancer site, or do not have a known bleeding disorder, and their carers and relatives. This
+is because they will not have the inconvenience of travelling for unnecessary EBRT
+treatment and the side effects associated with it.
+The committee made a recommendation for research on the effectiveness of enteral
+feeding for people who have dysphagia caused by luminal obstruction as no evidence was
+found.
+
+How the recommendations might affect practice
+The committee agreed that the new recommendations are likely to be cost saving because
+they will reduce the number of people receiving EBRT after stenting, and the number of
+different treatments that most people receive since most people will not receive EBRT.
+Resources for EBRT after stent insertion can be more effectively directed to people with
+incurable oesophageal and oesophago-gastric junctional cancer who have prolonged
+bleeding or a known bleeding disorder.
+Return to recommendations
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 21 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+Context
+There are around 13,000 new cases of oesophago-gastric cancer diagnosed in England
+each year. Mortality rates are high, with over 10,000 deaths annually, and over the last 30
+years the incidence of these cancers has continued to increase. Early diagnosis remains
+challenging, and optimising the diagnostic and treatment pathway is essential to improving
+management and prognosis.
+At present there is considerable variation in management and follow-up for people
+diagnosed with oesophago-gastric cancer. Though there have been recent advances in
+surgical techniques and chemotherapeutic agents, it is not yet clear how well these
+compare with standard therapy in terms of improving survival and quality of life.
+This guideline covers adults and young people (18 years and over) who are referred to
+secondary care with suspected oesophago-gastric cancer, or who have newly diagnosed
+or recurrent disease. It covers areas of uncertainty or variation in practice in relation to
+diagnosis, staging and management of various aspects of the disease. Although not
+intended as a comprehensive guide to the treatment of oesophago-gastric cancer, the
+information and support needs of people affected, organisation of specialist teams, initial
+assessment of disease and the management of oesophago-gastric cancer in radical and
+palliative settings are all covered. We have also covered related topics, such as nutritional
+support.
+This guideline aims to help standardise the treatment of oesophago-gastric cancer.
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 22 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+Finding more information and committee
+details
+To find NICE guidance on related topics, including guidance in development, see the NICE
+topic pages on oesophageal cancer and stomach cancer.
+For full details of the evidence and the guideline committee's discussions, see the
+evidence review and full guideline. You can also find information about how the guideline
+was developed, including details of the committee.
+NICE has produced tools and resources to help you put this guideline into practice. For
+general help and advice on putting our guidelines into practice, see resources to help you
+put NICE guidance into practice.
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 23 of
+conditions#notice-of-rights).
+24
+
+Oesophago-gastric cancer: assessment and management in adults (NG83)
+
+Update information
+July 2023: We have reviewed the evidence and made new recommendations on palliative
+management of luminal obstruction with no curative intent for adults with oesophageal or
+oesophago-gastric junctional cancer. These recommendations are marked [2023].
+Minor changes since publication
+February 2023: We have updated the recommendations on T1N0 oesophageal cancer in
+line with the new guideline on Barrett's oesophagus and stage 1 oesophageal
+adenocarcinoma.
+ISBN: 978-1-4731-5280-9
+
+Accreditation
+
+© NICE 2023. All rights reserved. Subject to Notice of rights (https://www.nice.org.uk/terms-and- Page 24 of
+conditions#notice-of-rights).
+24
+
+

@@ -1,0 +1,1155 @@
+8
+
+Current Concepts in the Diagnosis
+and Staging of Lung Cancer
+Brett W. Carter and Jeremy J. Erasmus
+
+Learning Objectives
+
+• Understand the role of imaging in diagnosing and
+staging lung cancer.
+• Describe the tumor (T), lymph node (N), and metastasis (M) descriptors and stage groups outlined in
+the eighth edition of the TNM staging system
+(TNM-8).
+• Employ TNM-8 to properly characterize and stage
+lung cancers with multiple sites of pulmonary
+involvement, including those with multiple tumor
+nodules, ground-glass lesions, and consolidation.
+
+8.1
+
+Introduction
+
+Lung cancer is a major cause of cancer-related mortality
+worldwide and is the leading cause of cancer-related mortality in the United States in both men and women, accounting
+for more deaths than colorectal, breast, prostate, and pancreatic cancers combined [1, 2]. Lung cancer is staged using a
+typical tumor (T), node (N), and metastasis (M) scheme.
+The seventh edition of the tumor-node-metastasis (TNM)
+staging system for lung cancer (TNM-7) included key
+changes to the T and M descriptors and the recommendation
+that both small cell lung carcinoma and bronchopulmonary
+carcinoid tumors be staged with this system [3]. Updated
+revisions to the TNM staging system, in the form of the
+eighth edition (TNM-8), have been accepted by the Union
+for International Cancer Control (UICC) and the American
+Joint Committee on Cancer (AJCC) based on proposals
+from the International Association for the Study of Lung
+Cancer [4]. TNM-8 features additional changes to the T and
+
+B. W. Carter (*) · J. J. Erasmus
+Department of Diagnostic Radiology, The University of Texas MD
+Anderson Cancer Center, Houston, TX, USA
+e-mail: bcarter2@mdanderson.org; jerasmus@mdanderson.org
+
+M descriptors, modifications, and additions to the overall
+stage groups, new recommendations for the staging of
+patients with multiple sites of pulmonary involvement, and
+recommendations for lesion measurement. In this manuscript, we discuss the role of imaging in the diagnosis of
+lung cancer and the key features of TNM-8 with which radiologists must be familiar.
+
+8.2
+
+Diagnosis of Lung Cancer
+
+8.2.1
+
+Clinical Symptoms
+
+Most patients diagnosed with lung cancer manifest in the
+fifth and sixth decades of life [5]. Approximately three-­
+fourths of patients demonstrate clinical symptoms at the time
+of presentation, the most common of which include cough
+(50–75%), hemoptysis (25–50%), dyspnea (25%), and chest
+pain (20%). Nonspecific symptoms related to systemic manifestations of the malignancy such as anorexia, weight loss, or
+fatigue may be present. Clinical symptoms also depend on
+the local effects of the primary tumor, the presence of
+regional or distant metastases, and the coexistence of paraneoplastic syndromes. While patients with solitary, peripherally located tumors tend to be asymptomatic, those with
+central endobronchial tumors may demonstrate fever, dyspnea, hemoptysis, and cough. Symptoms related to invasion
+of the mediastinum and associated vital structures include
+chest pain, vocal cord paralysis and hoarseness, facial and
+upper truncal edema, headaches, neck vein distention and
+enlarged collateral chest wall vessels (as seen in superior
+vena cava obstruction), and dysphagia (as seen in esophageal
+involvement). Lung cancers may produce symptoms via the
+release of bioactive substances or hormones or result in
+immune-mediated neural tissue destruction caused by antibody or cell-mediated immune responses. Such paraneoplastic syndromes occur in 10–20% of lung cancer patients, the
+most common of which are related to the release of antidiuretic and adrenocorticotropin hormones, which can result in
+
+© The Author(s) 2019
+J. Hodler et al. (eds.), Diseases of the Chest, Breast, Heart and Vessels 2019–2022, IDKD Springer Series,
+https://doi.org/10.1007/978-3-030-11149-6_8
+
+79
+
+80
+
+B. W. Carter and J. J. Erasmus
+
+hyponatremia and serum hypo-osmolarity and in Cushing’s
+syndrome (central obesity, hypertension, glucose intolerance, plethora, hirsutism), respectively [5].
+
+8.2.2
+
+I maging Evaluation of Pulmonary
+Nodules
+
+Once a solitary pulmonary nodule is identified, it may be
+further evaluated with cross-sectional imaging techniques
+such as computed tomography (CT) and/or positron emission tomography (PET)/CT. Key features that should be
+assessed include morphology, density, growth, and metabolic activity.
+
+8.2.2.1 Morphology and Density
+Pulmonary nodules may be described as solid or subsolid, the
+latter of which includes part-solid (combination of solid and
+ground-glass components) and nonsolid (pure ground-­glass)
+nodules. Updated guidelines for the evaluation of solid and
+subsolid pulmonary nodules have been published by the
+Fleischner Society but are beyond the scope of this manuscript. Continuous improvement in CT technology has enabled
+the widespread utilization of thin collimation imaging and
+improved the detection and characterization of subsolid pulmonary nodules [6]. In general, subsolid nodules that persist
+on CT have a higher incidence of malignancy than solid nodules, as 63% of part-solid nodules are malignant as compared
+to 18% for ground-glass opacities and 7% for solid nodules
+[6]. For subsolid nodules, the likelihood of malignancy varies
+according to the size of the soft tissue component on CT. The
+frequency of lobulation, spiculation, and pseudocavitation
+(small focal lucencies) has also been reported to be significantly higher in malignant part-solid nodules. The “classic”
+morphology of a lung cancer has often been described as irregular or “spiculated”; however, it is important to recognize that
+benign lesions may occasionally demonstrate this appearance.
+Similarly, although many benign pulmonary nodules have a
+smooth margin, malignant lesions, including lung cancer, can
+have a similar manifestation.
+The presence of intralesional fat (defined as Hounsfield
+Units of −40 to −120 on CT) almost always represents a
+benign hamartoma or, less commonly, lipoid pneumonia.
+Pulmonary metastases may contain fat in the setting of a primary soft tissue tumor that contains fat such as a liposarcoma, although this is rare. Different patterns of calcification
+may be identified within pulmonary nodules, some of which
+are typically benign and others of which tend to be malignant. For instance, central, popcorn, and laminated patterns
+of calcification tend to be benign and may be seen in the setting of granulomatous disease or hamartomas. Eccentric and
+stippled patterns of calcification are more concerning for
+malignant lesions.
+
+8.2.2.2 Growth
+The stability of nodules can be assessed by comparison to
+any chest radiographs or CT examinations performed in the
+past. In general, solid pulmonary nodules that have been
+stable for >2 years are considered benign and may represent
+granulomas, hamartomas, or intrapulmonary lymph nodes.
+The determination of stability for subsolid nodules, including part-solid and nonsolid (pure ground-glass) nodules is
+more complex, as such lesions can remain stable for a long
+period of time (>2 years) due to slow growth rates.
+Lung cancers typically double in volume (defined as an
+increase of 26% in diameter) between 30 and 400 days (with
+an average of 240 days). Extremely rapid doubling times are
+more likely to reflect a benign etiology. For example, volume
+doubling times <20–30 days are suggestive of an infectious
+or inflammatory etiology but can occur with lymphoma or
+rapidly growing metastases. Small lung cancers may demonstrate long volume doubling times. For instance, in a screening study analyzing the growth rates of small lung cancers on
+CT, the doubling time ranged from 52 to 1733 days (mean of
+452 days), and 20% of these malignancies had a volumetric
+doubling time >2 years [7]. These lesions were typically
+well-differentiated adenocarcinomas. For subsolid nodules,
+an increase in overall size, density, and/or an associated solid
+component should raise the suspicion for malignancy [8].
+8.2.2.3 Metabolic Activity
+PET/CT using the radiopharmaceutical [18F]-fluoro-2-deoxy-­
+D-glucose (FDG), a D-glucose analog labeled with fluorine­18, compliments conventional radiologic assessment of lung
+nodules. The reported sensitivity and specificity for detecting
+malignant pulmonary lesions are 97% and 78%, respectively.
+Thus, when solid nodules measuring 1 cm or greater in diameter demonstrate little to no FDG uptake, the likelihood of
+malignancy is generally considered to be low. One of the limitations of PET/CT is that the spatial resolution of PET scanners is in the range of 6 mm; therefore, smaller lesions may not
+appear FDG-avid even when cancer cells are present. Other
+limitations include false-positive studies with benign lesions,
+such as infection, inflammation, and granulomatous disease,
+and false-negative examinations due to indolent neoplasms
+such as bronchopulmonary carcinoid and lesions in the adenocarcinoma spectrum (adenocarcinoma in situ and minimally
+invasive adenocarcinoma), small foci of metastasis, and nonenlarged lymph nodes (those measuring <10 mm).
+
+Key Point
+
+• In the evaluation of pulmonary nodules for potential malignancy, the most important features to consider include morphology, density, growth over
+time, and metabolic activity on FDG PET/CT.
+
+8
+
+Current Concepts in the Diagnosis and Staging of Lung Cancer
+
+8.3
+
+ atient Evaluation and the Role
+P
+of Imaging
+
+Once a diagnosis of lung cancer has been made, a variety of
+imaging techniques are available to further evaluate patients.
+For non-small cell lung cancer, the National Comprehensive
+Cancer Network (NCCN) recommends that the initial patient
+evaluation include (1) pathology review, (2) history and
+physical examination, (3) CT of the chest and upper ­abdomen
+with intravenous contrast (including coverage of the adrenal
+glands), (4) laboratory studies (typically complete blood
+count, platelets, and chemistry profile), and (5) smoking cessation counseling [9]. Additional imaging examinations
+including FDG PET/CT and magnetic resonance (MR)
+imaging may be used depending on the clinical stage and
+have specific advantages and disadvantages.
+
+8.3.1
+
+Computed Tomography
+
+CT with intravenous contrast is the imaging modality of
+choice for evaluating most patients with lung cancer, as the
+modality accurately demonstrates the location and size of the
+primary lesion, the extent of local disease, and the relationship of the tumor to intrathoracic structures. Additionally, it
+can be used to determine the presence of intrathoracic and
+extrathoracic lymph node metastases, which are typically
+considered abnormal when they measure >1 cm in short-axis
+diameter. However, the strictly anatomic information provided by limits its effectiveness in this regard. For instance,
+in one study, 44% of metastatic nodes measured <1 cm, and
+77% of patients without lymph node metastases had nodes
+measuring >1 cm [10].
+
+8.3.2
+
+FDG PET/CT
+
+FDG PET/CT is more accurate than CT or stand-alone PET
+in determining the tumor classification, with integrated PET/
+CT correctly predicting the tumor stage in 86% of cases
+compared to 68% with CT and 46% with PET [11].
+Additionally, FDG PET/CT can distinguish between tumor
+and associated post-obstructive atelectasis/pneumonitis,
+with the former typically demonstrating greater FDG uptake
+[12]. As FDG PET/CT combines the anatomic information
+of CT and the functional information of PET, it is more accurate than CT in detecting lymph node metastases. Early studies demonstrated a pooled average sensitivity, specificity,
+positive predictive value, negative predictive value, and
+accuracy of PET/CT of, respectively, 73%, 91%, 71%, 90%,
+and 86%, compared to 74%, 73%, 52%, 88%, and 73% of
+CT alone and 83%, 81%, 71%, 89%, and 82% of PET alone
+[13]. FDG PET/CT is superior to both CT and PET in
+
+81
+
+identifying distant metastatic disease, particularly soft tissue
+and pleural metastases, and is better than nuclear medicine
+bone scintigraphy as the imaging modality of choice for
+detecting osseous metastases [13].
+
+8.3.3
+
+MR Imaging
+
+MR imaging is typically not routinely performed in the evaluation of patients with lung cancer; however, it has been
+shown to be superior to CT and FDG PET/CT for identifying
+invasion of the mediastinum and chest wall and evaluating
+the heart, pericardium, and vascular structures [14, 15].
+Characteristic MR imaging features of chest wall invasion
+include (1) infiltration or disruption of the normal extrapleural fat plane on T1-weighted imaging, (2) hyperintensity of
+the parietal pleura on T2-weighted imaging, (3) rib destruction on short tau inversion recovery (STIR) sequences, and
+(4) fixation of the tumor to the chest wall during breathing on
+cine MR imaging. MR imaging is better than CT in differentiating between the primary neoplasm and post-obstructive
+atelectasis/pneumonitis, the former of which typically usually shows higher signal on T2-weighted imaging than the
+central tumor [14]. MR imaging is the best imaging modality
+for identifying brain and liver metastases and can be used to
+diagnose adrenal metastases; specifically, chemical shift
+techniques can be used to differentiate adrenal metastases
+from adenomas, with reported sensitivity and specificity of
+100% and 81%, respectively.
+Key Point
+
+• Once a diagnosis of lung cancer has been made,
+most patients are further assessed with contrast-­
+enhanced CT. Additional imaging modalities such
+as FDG PET/CT and MR imaging may be obtained
+depending on the suspected clinical stage and/or
+further evaluation of specific findings.
+
+8.4
+
+Lung Cancer Staging
+
+8.4.1
+
+Rationale and Methodology for TNM-8
+
+A significant limitation of the International Association for
+the Study of Lung Cancer (IASLC) Staging Project that
+informed TNM-7 was the retrospective nature of the database. An international group led by the IASLC collected new
+lung cancer cases with retrospective and prospective clinical
+information for the creation of a large database that would
+ultimately inform TNM-8 [4, 16]. The database included
+data on 94,708 cases diagnosed between 1999 and 2010
+
+82
+
+B. W. Carter and J. J. Erasmus
+
+gathered from 35 sources in 16 countries, 4667 of which
+were submitted through an online electronic data capture
+system stored at Cancer Research and Biostatistics in Seattle,
+Washington. Of these cases, 17,552 were excluded due to
+unknown or different histologic type and incomplete stage
+information. Thus, 77,156 patients (70,967 with non-small
+cell lung cancer and 6189 with small cell lung cancer) with
+clinical and pathologic staging information were available
+for analysis.
+
+8.4.2
+
+Modifications to TNM-8
+
+8.4.2.1 T Classification
+The tumor (T) classification assigns specific descriptors to
+characterize the primary lung cancer [17] (Table 8.1). When
+evaluating tumors, the key imaging features to consider
+include lesion size (typically measured in long-axis diameter), the presence or absence of local invasion, and the presence or absence of tumor nodules. Analysis of the new lung
+cancer staging database evaluated the impact of these features on patient survival, and several significant changes are
+introduced in TNM-8.
+
+8.4.2.2 Tumor Size
+The overall size of the primary lung cancer is one of the most
+important considerations in T descriptor determination, and
+significant differences in survival between lung cancers of
+various sizes have influenced additional changes introduced in
+TNM-8. Analysis of the new lung cancer staging database
+revealed separation of T1 lesions from T2 lesions based on a
+size threshold of 3 cm and progressively worse survival for
+each cut point of 1 cm. Thus, T1 lung cancers are divided into
+three groups at 1 cm thresholds: T1a tumors measuring 1 cm
+or less, T1b nodules measuring greater than 1 cm and less than
+or equal to 2 cm, and T1c lesions measuring greater than 2 cm
+and less than or equal to 3 cm. Similarly, T2 lung cancers are
+divided into two groups: T2a lesions measuring greater than
+3 cm and less than or equal to 4 cm and T2b tumors measuring
+greater than 4 cm and less than or equal to 5 cm. Finally, T3
+lesions measure greater than 5 cm and less than or equal to
+7 cm, and T4 tumors measure greater than 7 cm in TNM-8.
+8.4.2.3 Involvement of Main Bronchi
+A lung cancer invading a main bronchus 2 cm or more from
+the carina was classified as T2, whereas involvement of the
+more proximal aspect of a main bronchus was classified as a
+
+Table 8.1 TNM Descriptors for TNM-8
+T descriptor
+TX
+T0
+Tis
+T1
+T1a
+T1b
+T1c
+T2
+T2a
+T2b
+T3
+T4
+N descriptor
+NX
+N0
+N1
+N2
+N3
+M descriptor
+M0
+M1
+M1a
+M1b
+M1c
+
+Definition
+Tumor cannot be assessed or tumor proven by the presence of malignant cells in sputum or bronchial washings but not
+visualized by imaging or bronchoscopy
+No evidence of the primary tumor
+Carcinoma in situ
+Tumor ≤3 cm in greatest dimension, surrounded by lung or visceral pleura, without bronchoscopic evidence of invasion more
+proximal than the lobar bronchus
+Tumor ≤1 cm in greatest dimension
+Tumor >1 cm but ≤2 cm in greatest dimension
+Tumor >2 cm but ≤3 cm in greatest dimension
+Tumor >3 cm but ≤5 cm or tumor with any of the following features: Involvement of a main bronchus regardless of distance
+from carina, invasion of the visceral pleura, associated with partial or complete lung atelectasis/pneumonitis
+Tumor >3 cm but ≤4 cm in greatest dimension
+Tumor >4 cm but ≤5 cm in greatest dimension
+Tumor >5 cm or one that directly invades any of the following structures: Parietal pleura, chest wall (including superior sulcus
+tumors), phrenic nerve, parietal pericardium, or separate tumor nodule(s) in the same lobe
+Tumor measuring >7 cm that invades any of the following structures: Mediastinum, diaphragm, heart, great vessels, trachea,
+recurrent laryngeal nerve, esophagus, vertebral body, carina, or separate tumor nodule(s) in a different lobe of the same lung
+Definition
+Lymph nodes cannot be assessed
+No regional lymph nodes
+Ipsilateral peribronchial and/or ipsilateral hilar lymph nodes and intrapulmonary nodes, including involvement by direct
+extension
+Ipsilateral mediastinal and/or subcarinal lymph node(s)
+Contralateral mediastinal, contralateral hilar, ipsilateral or contralateral scalene, or supraclavicular lymph node(s)
+Definition
+No metastasis
+Metastasis
+Separate tumor nodule(s) in contralateral lung; malignant pleural effusion or pleural thickening/nodules/masses; malignant
+pericardial effusion or pericardial thickening/nodules/masses
+Single distant (extrathoracic) metastasis in single organ
+Multiple distant (extrathoracic) metastases in single or multiple organs
+
+Adapted from [25]
+
+8
+
+Current Concepts in the Diagnosis and Staging of Lung Cancer
+
+T3 lesion in TNM-7. Analysis of the new lung cancer staging
+database revealed that lung cancers invading a main bronchus less than 2 cm from the carina, but without direct invasion of the carina, were associated with better survival
+compared to lung cancers with other characteristic T3 features. Thus, in TNM-8, lung cancers involving a main bronchus, regardless of the distance from the carina, are grouped
+together as T2 tumors.
+
+8.4.2.4 Atelectasis or Pneumonitis of the Lung
+A lung cancer resulting in partial atelectasis or pneumonitis,
+defined as involving less than an entire lung, was classified
+as T2 in TNM-7, whereas atelectasis or pneumonitis of an
+entire lung was classified as a T3 lesion. Analysis of the new
+lung cancer staging database revealed that patients with
+complete atelectasis or pneumonitis of a lung had better survival than those with other characteristics T3 features. Thus,
+partial and complete forms of lung atelectasis and pneumonitis are grouped together as T2 lesions in TNM-8 (Fig. 8.1).
+
+83
+
+8.4.2.6 Involvement of the Mediastinal Pleura
+In TNM-7, involvement of the mediastinal pleura was classified as T3. Analysis of the new database showed that lung
+cancers with this feature were associated with a better
+prognosis than other T3 lesions; however, only a small
+number of cases were available. It was also noted that
+mediastinal pleura invasion was rarely used in clinical
+staging reports as it can be difficult to accurately determine. Therefore, invasion of the mediastinal pleura has
+been eliminated from the T classification in TNM-8.
+
+Key Point
+
+• The most important features to consider in the classification of tumors include lesion size, location,
+and local extension. Modifications to the T classification have been made on the basis of 1 cm increments in tumor size; grouping of lung cancers that
+result in partial or complete lung atelectasis or
+pneumonitis; grouping of tumors with involvement
+of a main bronchus irrespective of distance from the
+carina; reassignment of diaphragmatic invasion in
+terms of T classification; and elimination of mediastinal pleural invasion.
+
+8.4.2.5 Diaphragmatic Invasion
+In TNM-7, invasion of the diaphragm was included in T3.
+Analysis of the new database demonstrated that the 5-year
+survival of patients with this feature was worse than that of
+patients with other T3 lung cancers but similar to that of
+patients with T4 tumors. Therefore, diaphragmatic invasion
+has been reclassified as T4 in TNM-8 (Fig. 8.2).
+
+a
+
+Fig. 8.1 Atelectasis/pneumonitis. (a) Contrast-enhanced axial CT of a
+63-year-old man with non-small cell lung cancer demonstrates occlusion of the right upper lobe bronchus (arrow) and complete atelectasis
+of the right upper lobe (*) due to a right perihilar mass. (b) Contrast-­
+enhanced axial CT of a 55-year-old man with non-small cell lung can-
+
+b
+
+cer demonstrates complete occlusion of the right main bronchus (arrow)
+and complete atelectasis of the right lung (*) due to a large right perihilar mass. In TNM-8, partial and complete lung atelectasis/pneumonitis
+are grouped together as a T2 descriptor
+
+84
+
+a
+
+B. W. Carter and J. J. Erasmus
+
+b
+
+Fig. 8.2 Diaphragmatic invasion. (a) Axial contrast-enhanced axial
+CT of a 61-year-old man with non-small cell lung cancer shows a mass
+(*) in the right lower lobe inseparable from the right hemidiaphragm
+(arrow). (b) Axial cine T2-weighted MR confirmed invasion of the right
+
+hemidiaphragm. Because the 5-year survival of patients with diaphragmatic invasion is similar to that of patients with other T4 tumors, diaphragmatic invasion has been reclassified from T3 to T4 in TNM-8
+
+8.4.2.7 Lymph Node (N) Classification
+The lymph node (N) classification assigns specific descriptors that are related to the presence or absence of intrathoracic lymph node disease (Table 8.1). In contrast to primary
+lung cancers, for which the long-axis diameter is measured
+and reported, lymph nodes are typically measured in short-­
+axis diameter. IASLC recommends use of a standardized
+lymph node map that assigns nodes into specific supraclavicular, upper, aorticopulmonary, subcarinal, lower, hilar/
+interlobar, and peripheral zones [18]. The analysis of the new
+database revealed that the current N classification provides
+consistent separation of prognostically distinct groups. Thus,
+the lymph node descriptors are unchanged for TNM-8 [19].
+N0 is defined as the absence of lymph node disease. N1 is
+characterized by ipsilateral peripheral or hilar lymph nodes,
+N2 includes ipsilateral mediastinal including subcarinal
+lymph nodes, and N3 involves ipsilateral or contralateral
+supraclavicular lymph node or contralateral mediastinal,
+hilar/interlobar, or intrapulmonary lymph nodes.
+The potential prognostic impact of the number of lymph
+node stations involved and skip metastases was also evaluated.
+To assess the former, pathologic staging (pN) was divided into
+several groups, in which the letter “a” denoted single lymph
+node station involvement and the letter “b” represented multiple lymph node station involvement within an N category.
+
+Therefore, single (pN1a) and multiple (pN1b) pN1 stations and
+single (pN2a) and multiple (pN2b) pN2 stations were delineated. No significant difference was seen between the pN1b
+and pN2a groups, although survival differences between the
+pN1a and pN1b groups and between the pN2a and pN2b
+groups were significant. To assess the skip metastases, pN2a
+was divided into several components, in which a designation
+ending in “1” indicated the presence of skip metastases and a
+designation ending in “2” indicated the absence of skip metastases. Thus, single pN2 with skip (no pN1 involvement, pN2a1)
+and single pN2 without skip (pN1 and pN2 involvement,
+pN2a2) categories were recognized. Although the survival of
+patients with pN2a1 was better than those with pN1b, this difference was not significant. Although significant differences in
+survival were present between the pN2a1 and pN2a2 groups
+and between the pN2a2 and pN2b groups, no significant difference was present between the pN1b and pN2a1 groups.
+For the purposes of clinical staging, IASLC recommends
+that radiologists document the number of lymph node stations involved and classify the N category using descriptors
+such as N1a (single lymph node station), N1b (multiple
+lymph node stations), N2a (single lymph node station), and
+N2b (multiple lymph node stations). The presence or absence
+of skip metastasis (pN2a1 or pN2a2) should be noted when
+such information is available.
+
+8
+
+Current Concepts in the Diagnosis and Staging of Lung Cancer
+
+Key Point
+
+• The current nomenclature for lymph node classification is maintained in TNM-8 due to consistent separation of prognostically distinct groups, which is
+primarily based on lymph node location. In general,
+ipsilateral hilar (N1) lymph nodes are considered
+resectable, ipsilateral mediastinal or subcarinal
+lymph nodes (N2) may be resectable (usually after
+induction chemotherapy), and contralateral mediastinal lymph nodes and scalene or supraclavicular adenopathy (N3) are generally considered unresectable.
+
+8.4.2.8 Metastasis (M) Classification
+The metastasis (M) classification assigns specific descriptors
+reflecting the absence (M0) or presence (M1) of intrathoracic
+or extrathoracic metastatic disease (Table 8.1). The M classification for TNM-7 included M1a and M1b components for
+intrathoracic and extrathoracic metastatic disease, respectively. Analysis of the new lung cancer staging database
+revealed that patients with a single metastasis in one extrathoracic organ (median survival of 11.4 months) had similar
+survival to that of patients with M1a (median survival of
+11.5 months) but better survival compared to patients with
+multiple metastases in one or more extrathoracic organs
+(median survival of 6.3 months) [20]. Therefore, M1 is
+a
+
+Fig. 8.3 Intrathoracic metastases. (a) Contrast-enhanced axial CT of a
+66-year-old man with non-small cell lung cancer demonstrates extensive pleural thickening and nodularity (*) in the right hemithorax compatible with metastatic disease. (b) Contrast-enhanced axial CT of a
+57-year-old woman with non-small cell lung cancer shows several nod-
+
+85
+
+divided into M1a, M1b, and M1c components based on survival differences. M1a, or intrathoracic metastatic disease,
+describes pleural or pericardial spread of disease and tumor
+nodules in the contralateral lung (Fig. 8.3). M1b and M1c
+describe extrathoracic metastatic disease, the former of
+which includes a single metastasis involving a single distant
+(extrathoracic) organ and the latter of which includes multiple metastases in one or more distant (extrathoracic) organs
+(Fig. 8.4). Overall, the most common sites of metastatic disease include the brain, liver, adrenal glands, and bone.
+It is recommended that radiologists document the following features on imaging studies performed for the purposes
+of clinical staging: (1) the number and location of metastatic
+lesions, (2) the diameter of individual metastases, and (3) the
+number and location of organs affected.
+
+Key Point
+
+• The M1 descriptor is subdivided into M1a (intrathoracic metastatic disease, including pleural or
+pericardial spread, cardiac metastasis, and contralateral tumor nodule), M1b (extrathoracic metastatic disease, with one lesion in one distant organ),
+and M1c (extrathoracic metastatic disease, with
+more than one lesion in one or more distant organs)
+based on the location and number of metastases.
+
+b
+
+ules (arrows) involving the pericardium and a small amount of pericardial fluid, compatible with metastatic disease. M1a is used to describe
+pleural or pericardial spread of disease and tumor nodules in the contralateral lung
+
+86
+
+B. W. Carter and J. J. Erasmus
+
+a
+
+b
+
+c
+
+Fig. 8.4 Distant (extrathoracic) metastases. (a) Axial contrast-­ liver (arrows), consistent with metastases. C. Fused axial FDG PET/CT
+enhanced T1-weighted MR image of a 53-year-old man with non-small of a 71-year-old man with non-small cell lung cancer demonstrates
+cell lung cancer demonstrates an enhancing metastasis (arrow) with hepatic (white arrow) and left adrenal (black arrow) metastases. TNM-8
+surrounding edema in the left middle frontal gyrus. (b) Contrast-­ recognizes differences in survival based on both the location and numenhanced axial CT of a 64-year-old man with non-small cell lung can- ber of metastases; thus, distant metastatic disease is designated as M1b
+cer demonstrates numerous heterogeneously hypodense masses in the (solitary metastasis in a single distant organ) and M1c (multiple metastases in one or more distant organs)
+
+8.4.3
+
+Stage Groups
+
+Due to changes to the T and M descriptors in TNM-8, the
+stage groups in TNM-7 have been modified, and new
+groups have been added [21] (Table 8.2). For example, in
+
+response to the separation of T1 lesions into T1a, T1b, and
+T1c components based on 1 cm increments, three new
+associated stages have been created and designated as IA1,
+IA2, and IA3, respectively. In another instance, to describe
+cases of locally advanced tumors (including T3 and T4
+
+8
+
+Current Concepts in the Diagnosis and Staging of Lung Cancer
+
+Table 8.2 Stage Groups for TNM-8
+Stage
+Occult carcinoma
+Stage 0
+Stage IA1
+Stage IA2
+Stage IA3
+Stage IB
+Stage IIA
+Stage IIB
+
+Stage IIIA
+
+Stage IIIB
+
+Stage IIIC
+Stage IVA
+Stage IVB
+
+Tumor
+TX
+Tis
+T1a (mi)
+T1a
+T1b
+T1c
+T2a
+T2b
+T1a-c
+T2a
+T2b
+T1a-c
+T2a-b
+T3
+T4
+T4
+T1a-c
+T2a-b
+T3
+T4
+T3
+T4
+Any T
+Any T
+Any T
+
+Node
+N0
+N0
+N0
+N0
+N0
+N0
+N0
+N0
+N1
+N1
+N1
+N2
+N2
+N1
+N0
+N1
+N3
+N3
+N2
+N2
+N3
+N3
+Any N
+Any N
+Any N
+
+Metastasis
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M1a
+M1b
+M1c
+
+mi minimally invasive
+Adapted from [25]
+
+lesions) with N3 but no evidence of metastatic disease, a
+new stage designated as stage IIIC has been created for
+TNM-8. Intrathoracic metastatic disease, including pleural, pericardial, and cardiac spread, as well as tumor nodules in the contralateral lung, remains classified as stage
+IVA. A single metastasis to a single distant organ (M1b) is
+considered stage IVA, whereas multiple distant metastases in one or more distant organs (M1c) are classified as
+stage IVB.
+
+8.4.4
+
+ ung Cancers with Multiple Sites
+L
+of Pulmonary Involvement
+
+Multiple distinct patterns of lung cancer manifesting with
+several sites of pulmonary involvement have been described,
+including multiple primary lung cancers, lung cancers with
+one or more tumor nodules, multiple ground-glass lesions,
+and consolidation [22]. Recommendations for the staging of
+tumors resulting in these patterns is included for the first
+time in TNM-8 and are based on review of the literature and
+expert opinion provided by IASLC.
+
+8.4.4.1 Multiple Primary Lung Cancers
+When a lung cancer is identified on an imaging examination
+and there are multiple additional lung lesions, the radiologist
+must consider data from several sources when attempting to
+
+87
+
+determine whether such lesions represent multiple primary
+lung cancers. IASLC recommends that the decision to classify two (or more) lung lesions as synchronous primary lung
+cancers or two foci of a single lung cancer should be based
+on multidisciplinary evaluation that incorporates clinical,
+relevant findings on prior and current imaging and histopathologic findings obtained at image-guided or surgical biopsy
+or surgical resection [22, 23]. If two (or more) lung lesions
+are determined to represent separate primary lung cancers,
+then each separate malignancy should be staged using
+TNM-8.
+
+8.4.4.2 Lung Cancer with One or More Tumor
+Nodules
+When a lung cancer is identified on an imaging examination
+with one or more nodules, these other lesions may or may
+not be of the same histologic subtype as the primary lesion.
+Tumor nodules related to the primary malignancy should be
+suspected when one or more solid lung nodule is identified
+along with a dominant lung lesion resulting in the “classic”
+lung cancer appearance, such as a spiculated nodule or mass.
+Analysis of the new lung cancer staging database revealed a
+progressive decrease in survival with increasing distance
+between a primary lung cancer and associated tumor nodule.
+Thus, patient survival is better when lung cancers have tumor
+nodules in the same lobe as the primary tumor (T3) compared with those lesions with nodules in a different ipsilateral lobe (T4) or the contralateral lung (M1a) [22, 24]
+(Fig. 8.5).
+8.4.4.3 Multiple Ground-glass Lesions
+In general, lung cancers appearing as multiple lesions with
+ground-glass or lepidic features are almost always adenocarcinoma, tend to affect women and nonsmokers, and are
+associated with excellent patient outcomes and infrequent
+recurrences [22, 25]. Compared to other types of lung cancer, subsolid adenocarcinomas tend to have a lower likelihood of resulting in lymph node spread or metastasis, have
+a greater propensity for developing additional subsolid
+lung cancers, and are more likely to behave in an indolent
+manner [25].
+IASLC recommends that the term multifocal adenocarcinoma be used to describe lung lesions if a malignant subsolid
+nodule is present (suspected at clinical staging or histopathologically proven) and if other ground-glass lesions are present [25]. This definition also includes cases in which a
+subsolid lesion with a 50% or greater solid (invasive) component appears to have arisen from a ground-glass nodule and
+other ground-glass opacities are present. The term multifocal
+lung adenocarcinoma should not be applied to patients with
+multiple ground-glass nodules likely representing benign
+lesions or preneoplastic/preinvasive lesions such as atypical
+adenomatous hyperplasia.
+
+88
+
+a
+
+B. W. Carter and J. J. Erasmus
+
+b
+
+c
+
+Fig. 8.5 Lung cancers with separate tumor nodules. (a) Contrast-­
+enhanced axial CT of a 39-year-old woman with non-small cell lung
+cancer demonstrates the tumor in the right upper lobe (*) and a separate
+tumor nodule (arrow) in the adjacent lung. These findings are designated as T3. (b) Contrast-enhanced coronal CT of a 72-year-old woman
+with non-small cell lung cancer demonstrates the tumor in the right
+
+upper lobe (*) and a separate tumor nodule in the middle lobe (arrow).
+These findings are classified as T4. (c) Contrast-enhanced axial CT of a
+63-year-old man with non-small cell lung cancer demonstrates the
+tumor in the left lung (*) and a separate tumor nodule in the right upper
+lobe (arrow). Biopsy of the right upper lobe nodule confirmed malignancy, and these findings are designated as M1a
+
+For the purposes of staging, IASLC recommends that the
+T classification be determined by the lesion with the highest-­
+level T descriptor and the number of lesions (#)—or simply
+“(m)” for multiple—indicated in parentheses (Fig. 8.6).
+Lesion size is determined by the largest diameter of the solid
+component measured on CT or the largest diameter of the
+invasive
+component
+at
+pathologic
+examination.
+Adenocarcinoma in situ and minimally invasive adenocarcinoma should be classified as Tis and T1a(mi), respectively
+[26]. It is recommended that the T(#/m) multifocal classification should be used regardless of whether these lesions are
+
+suspected on the basis of imaging or if there is histopathologic proof and regardless of whether the lesions are in the
+same lobe or in different lobes of the same or different lung.
+Once the T classification has been determined, the N and M
+descriptors apply to all of the tumor foci collectively.
+
+8.4.4.4 Consolidation
+The dominant manifestation of some lung cancers may
+appear as diffuse consolidation or a “pneumonic type” of
+adenocarcinoma, most of which are invasive mucinous
+adenocarcinomas [27–29]. These lesions manifest as a
+
+8
+
+Current Concepts in the Diagnosis and Staging of Lung Cancer
+
+Fig. 8.6 Multiple ground-­
+glass lesions (multifocal
+adenocarcinoma). (a)
+Unenhanced axial CT of a
+58-year-old woman with
+multifocal lung
+adenocarcinoma demonstrates
+several ground-glass nodules
+in the right lung, the largest of
+which measures 1.6 cm. (b)
+Unenhanced axial CT of a
+64-year-old woman with
+multifocal lung
+adenocarcinoma shows
+numerous ground-glass
+nodules bilaterally, the largest
+of which measures 4.5 cm. In
+the setting of multiple
+ground-glass lesions, the
+IASLC recommends the
+utilization of the dominant
+lesion for T descriptor
+purposes. In the first case, the
+nodule is classified as a T1b
+lesion, and the overall
+descriptor can be listed as
+either T1b (# of lesions) or
+T1b (m). In the second case,
+the nodule is classified as a
+T2b lesion, and the overall
+descriptor can be listed as
+either T2b (# of lesions) or
+T2b (m)
+
+89
+
+a
+
+b
+
+consolidative pattern on CT without evidence of an obstructed
+bronchus and may only involve a specific region (such as a
+segment or lobe), multiple regions (appearing confluent or
+separate), or the lung in a diffuse manner. Lymph node
+involvement and metastatic disease are uncommon at presentation, even in the setting of extensive lung disease [30–
+32]. Progression is typically slow; however, the overall
+survival is worse compared with that of patients with multifocal ground-glass lesions.
+For the purposes of staging, IASLC recommends that,
+when the lung cancer involves a single area, the T classification is determined by the size of the lesion. When multiple
+sites of involvement are present, the disease is characterized
+as T3 if confined to one lobe, T4 if different lobes of the
+same lung are affected, and M1a if both lungs are involved
+
+(Fig. 8.7). When disease is present within both lungs, the T
+classification is based on the appropriate T category for the
+lung with the greatest extent of tumor involvement. For a
+lesion that is confined to a single lobe but is difficult to measure reliably, the T3 descriptor should be used. Lesions in
+which there is extension of tumor into an adjacent lobe or a
+discrete separate area of involvement of an adjacent lobe is
+identified should be classified as T4. Once the T classification has been determined, the N and M descriptors apply to
+all of the tumor foci collectively. This algorithm should also
+be used to stage lung cancers presenting with a miliary pattern of disease, characterized by numerous small pulmonary
+nodules in the lungs. Miliary disease is often difficult to measure, and a single lobe should be classified as T3 without
+regard to size.
+
+90
+
+B. W. Carter and J. J. Erasmus
+
+a
+
+b
+
+c
+
+Fig. 8.7 Lung cancer manifesting as consolidation. (a) Unenhanced
+axial CT of a 69-year-old woman with non-small cell lung cancer demonstrates consolidation isolated to the right lower lobe (*) with surrounding ground-glass opacity. As this lesion is limited to the right
+lower lobe, it is designated as T3. (b) Contrast-enhanced axial CT of a
+49-year-old woman with multifocal adenocarcinoma demonstrates
+
+Key Point
+
+• A subcommittee of the IASLC staging and prognostic factors committee identified four distinct patterns of disease in cases of lung cancer characterized
+by multiple sites of pulmonary involvement, including multiple primary lung cancers, lung cancers
+with separate tumor nodules, multiple ground-glass
+lesions, and consolidation. Specific criteria have
+been outlined in order to categorize and stage
+lesions with these patterns of disease.
+
+multifocal consolidation (*) in the left upper lobe and extensive ground-­
+glass opacities in the left lung. As these lesions are present in both lobes
+of the left lung, the designation is T4. (c) Contrast-enhanced axial CT
+of a 53-year-old woman with multifocal adenocarcinoma shows consolidation and extensive ground-glass opacities in the lungs bilaterally.
+As consolidation is present in both lungs, the designation is M1a
+
+8.4.5
+
+Tumor Measurement
+
+For the purposes of initial clinical staging on cross-sectional
+imaging, lung cancers should be measured and reported in
+centimeters with millimeter increments. Solid and nonsolid
+lesions should be measured on the image showing the greatest tumor dimension, regardless of plane (axial, sagittal, or
+coronal), whereas part-solid lesions should be measured on
+the image showing the largest average tumor diameter and
+the greatest diameter of the solid component of the lesion.
+For the purpose of determining the T classification, the
+
+8
+
+Current Concepts in the Diagnosis and Staging of Lung Cancer
+
+a
+
+91
+
+b
+
+Fig. 8.8 Measurement of part-solid tumors. (a) and (b) Contrast-­
+enhanced axial CT of a 57-year-old woman demonstrates a part-solid
+nodule in the left upper lobe with measurement of the entire lesion (A)
+and just the solid component (B). For the purpose of evaluating part-­
+
+solid lesions, IASLC recommends that the image showing the largest
+average tumor diameter and the greatest diameter of the solid component of the lesion be used. For determining the T descriptor, the longest
+diameter of the solid component should be used for part-solid lesions
+
+longest diameter should be used for solid and nonsolid
+lesions, and the longest diameter of the solid component
+should be used for part-solid lesions [17, 26] (Fig. 8.8).
+Regarding optimal CT scan technique, thin-section
+images (specifically, 1 mm sections if possible for small
+lesions measuring 10 mm or less) help reduce the variability
+in measurement and allow visualization of specific tumor
+features such as density, shape, and margin due to enhanced
+spatial resolution [33–36]. It is recommended that lung or
+intermediate window settings should be used to detect and
+measure the solid components of subsolid lesions and that
+the long-axis measurement of the largest solid component
+should be identified.
+
+and extensive-stage SCLC, which includes all other cases.
+The TNM staging system has been shown to better differentiate stage-specific survival compared with the Veterans
+Administration Lung Study Group system [37, 38].
+Analysis of the new database confirmed the prognostic
+value of TNM staging in patients with SCLC, and the
+IASLC recommends its use for staging of patients with
+SCLC. Radiologists should record the following information regarding SCLC: (a) the number of extrathoracic metastatic sites, (b) the number of organs involved, (c) the
+diameter of individual metastatic sites, (d) the types of
+examinations and studies used for staging, and (e) whether
+patients with brain metastases are symptomatic or asymptomatic [39].
+
+8.4.6
+
+Small Cell Lung Cancer
+
+IASLC first recommended that SCLC should be evaluated
+with the TNM staging system at the release of TNM-7. A
+separate staging system developed by the Veterans
+Administration Lung Study Group that divides SCLC into
+two subgroups, limited-stage SCLC and extensive-stage
+SCLC, based on the extent of disease and the ability to treat
+in a single radiation portal, is still often used in current
+clinical practice. Limited-stage SCLC is confined to one
+hemithorax and can be treated in a single radiation portal,
+
+8.5
+
+Concluding Remarks
+
+The revised TNM staging system, TNM-8, includes important modifications to the T and M classifications, changes
+and additions to stage groups, and the introduction of new
+recommendations regarding the staging of lung cancers with
+multiple pulmonary sites of involvement and guidelines for
+tumor measurement. Understanding TNM-8 will allow radiologists to accurately stage patients with lung cancer and
+optimize patient management.
+
+92
+
+B. W. Carter and J. J. Erasmus
+
+Take-Home Messages
+
+• Lung cancer is a major cause of cancer mortality,
+and accurate staging is crucial to the formulation of
+effective treatment strategies.
+• Revisions to the eighth edition of the tumor-node-­
+metastasis (TNM) staging system are based on significant differences in patient survival.
+• TNM-8 features changes to the T and M descriptors,
+modifications and additions to the overall stage
+groups, new recommendations for the staging of
+patients with multiple sites of pulmonary involvement, and recommendations for lesion measurement.
+
+References
+1. Centers for Disease Control and Prevention. National Center for
+Health Statistics. CDC WONDER On-line Database, compiled
+from Compressed Mortality File 1999-2012 Series 20 No. 2R,
+2014.
+2. American Cancer Society. Cancer facts and figures, 2017. Accessed
+30 Jan 2017.
+3. Goldstraw P, Crowley J, Chansky K, et al. The IASLC lung cancer
+staging project: proposals for the revision of the TNM stage groupings in the forthcoming (seventh) edition of the TNM classification
+of malignant Tumours. J Thorac Oncol. 2007;2:706–14.
+4. Carter BW, Lichtenberger JP 3rd, Benveniste MK, de Groot PM,
+Wu CC, Erasmus JJ, Truong MT. Revisions to the TNM staging
+of lung cancer: rationale, significance, and clinical application.
+Radiographics 2018;38(2):374-391.
+5. Ost DE, Yeung SC, Tanoue LT, Gould MK. Clinical and organizational factors in the initial evaluation of patients with lung cancer: diagnosis and management of lung cancer, 3rd ed: American
+College of Chest Physicians evidence-based clinical practice guidelines. Chest. 2013;143(5 Suppl):e121S–41S.
+6. Henschke CI, Yankelevitz DF, Mirtcheva R, et al. CT screening for
+lung cancer: frequency and significance of part-solid and nonsolid
+nodules. AJR. Am J Roentgenol. 2002;178(5):1053–7.
+7. Hasegawa M, Sone S, Takashima S, et al. Growth rate of small
+lung cancers detected on mass CT screening. Br J Radiol.
+2000;73(876):1252–9.
+8. Kakinuma R, Ohmatsu H, Kaneko M, et al. Progression of focal
+pure ground-glass opacity detected by low-dose helical computed
+tomography screening for lung cancer. J Comput Assist Tomogr.
+2004;28(1):17–23.
+9. National Comprehensive Cancer Network. NCCN Clinical Practice
+Guidelines in Oncology (NCCN Guidelines®). Non-Small Cell
+Lung Cancer, 2018. Accessed 12 Sept 2018.
+10. Prenzel KL, Mönig SP, Sinning JM, et al. Lymph node size
+and metastatic infiltration in non-small cell lung cancer. Chest.
+2003;123(2):463–7.
+11. Pauls S, Buck AK, Hohl K, et al. Improved non-invasive T-staging
+in non-small cell lung cancer by integrated 18F-FDG PET/
+CT. Nuklearmedizin. 2007;46(1):9–14.. quiz N1-2
+12. Steinert HC. PET and PET-CT of lung cancer. Methods Mol Biol.
+2011;727:33–51.
+13. Chao F, Zhang H. PET/CT in the staging of the non-small-cell lung
+cancer. J Biomed Biotechnol. 2012;2012:783739.
+14. Ohno Y, Koyama H, Dinkel J, Hintze C. Lung cancer. In: Kauczor
+HU, editor. MRI of the lung. Heidelberg, Springer; 2009: 179–216.
+
+15. Ohno Y, Adachi S, Motoyama A, et al. Multiphase ECG triggered
+3D contrast-enhanced MR angiography: utility for evaluation of
+hilar and mediastinal invasion of bronchogenic carcinoma. J Magn
+Reson Imaging. 2001;13:215–24.
+16. Rami-Porta R, Bolejack V, Giroux DJ, et al. The IASLC lung
+cancer staging project: the new database to inform the eighth edition of the TNM classification of lung cancer. J Thorac Oncol.
+2014;9(11):1618–24.
+17. Rami-Porta R, Bolejack V, Crowley J, et al. The IASLC lung cancer
+staging project: proposals for the revisions of the T descriptors in
+the forthcoming eighth edition of the TNM classification for lung
+cancer. J Thorac Oncol. 2015;10:990–1003.
+18. Rusch VW, Asamura H, Watanabe H, et al. The IASLC lung cancer
+staging project: a proposal for a new international lymph node map
+in the forthcoming seventh edition of the TNM classification for
+lung cancer. J Thorac Oncol. 2009;4(5):568–77.
+19. Asamura H, Chansky K, Crowley J, et al. The International
+Association for the Study of Lung Cancer lung cancer staging project: proposals for the revision of the N descriptors in the forthcoming 8th edition of the TNM classification for lung cancer. J Thorac
+Oncol. 2015;10(12):1675–84.
+20. Eberhardt WEE, Mitchell A, Crowley J, et al. The IASLC lung cancer staging project: proposals for the revision of the M descriptors
+in the forthcoming (8th) edition of the TNM classification of lung
+cancer. J Thorac Oncol. 2015;10:1515–122.
+21. Goldstraw P, Chansky K, Crowley J, et al. The IASLC lung cancer
+staging project: proposals for revision of the TNM stage groupings
+in the forthcoming (eighth) edition of the TNM classification for
+lung cancer. J Thorac Oncol. 2016;11(1):39–51.
+22. Detterbeck FC, Nicholson AG, Franklin WA, et al. The IASLC
+lung cancer staging project: summary of proposals for revisions of
+the classification of lung cancers with multiple pulmonary sites of
+involvement in the forthcoming eighth edition of the TNM classification. J Thorac Oncol. 2016;11(5):639–50.
+23. Detterbeck FC, Franklin WA, Nicholson AG, et al. The IASLC
+lung cancer staging project: background data and proposed criteria to distinguish separate primary lung cancers from metastatic
+foci in patients with two lung tumors in the forthcoming eighth
+edition of the TNM classification for lung cancer. J Thorac Oncol.
+2016;11(5):651–65.
+24. Detterbeck FC, Bolejack V, Arenberg DA, et al. The IASLC lung
+cancer staging project: background data and proposals for the classification of lung cancer with separate tumor nodules in the forthcoming eighth edition of the TNM classification for lung cancer. J
+Thorac Oncol. 2016;11(5):681–92.
+25. Detterbeck FC, Marom EM, Arenberg DA, et al. The IASLC lung
+cancer staging project: background data and proposals for the application of TNM staging rules to lung cancer presenting as multiple
+nodules with ground glass or Lepidic features or a pneumonic type
+of involvement in the forthcoming eighth edition of the TNM classification. J Thorac Oncol. 2016;11(5):666–80.
+26. Travis WD, Asamura H, Bankier AA, et al. The IASLC lung cancer
+staging project: proposals for coding T categories for subsolid nodules and assessment of tumor size in part-solid tumors in the forthcoming eighth edition of the TNM classification of lung cancer. J
+Thorac Oncol. 2016;11(8):1204–23.
+27. Wislez M, Massiani M-A, Milleron B, et al. Clinical characteristics of pneumonic-type adenocarcinoma of the lung. Chest.
+2003;123:1868–77.
+28. Akira M, Atagi S, Kawahara M, Iuchi K, Johkoh T. High resolution
+CT findings of diffuse bronchioloalveolar carcinoma in 38 patients.
+Am J Roentgenol. 1999;173:1623–9.
+29. Battafarano RJ, Meyers BF, Guthrie TJ, Cooper JD, Patterson
+GA. Surgical resection of multifocal non-small cell lung cancer is associated with prolonged survival. Ann Thorac Surg.
+2002;74:988–94.
+
+8
+
+Current Concepts in the Diagnosis and Staging of Lung Cancer
+
+30. Barlesi F, Doddoli C, Gimenez C, et al. Bronchioloalveolar carcinoma: myths and realities in the surgical management. Eur J
+Cardiothorac Surg. 2003;24:159–64.
+31. de Perrot M, Chernenko S, Waddell TK, et al. Role of lung transplantation in the treatment of bronchogenic carcinomas for patients
+with end-stage pulmonary disease. J Clin Oncol. 2004;22:4351–6.
+32. Ahmad U, Wang Z, Bryant AS, et al. Outcomes for lung transplantation for lung cancer in the united network for organ sharing registry. Ann Thorac Surg. 2012;94:935–41.
+33. Petrou M, Quint LE, Nan B, Baker LH. Pulmonary nodule volumetric measurement variability as a function of CT slice thickness and
+nodule morphology. AJR Am J Roentgenol. 2007;188:306–12.
+34. Goo JM, Tongdee T, Tongdee R, Yeo K, Hildebolt CF, Bae
+KT. Volumetric measurement of synthetic lung nodules with multi-­
+detector row CT: effect of various image reconstruction parameters
+and segmentation thresholds on measurement accuracy. Radiology.
+2005;235:850–6.
+35. Ravenel JG, Leue WM, Nietert PJ, Miller JV, Taylor KK, Silvestri
+GA. Pulmonary nodule volume: effects of reconstruction param-
+
+93
+eters on automated measurements—a phantom study. Radiology.
+2008;247:400–8.
+36. Wang Y, de Bock GH, van Klaveren RJ, et al. Volumetric measurement of pulmonary nodules at low-dose chest CT: effect of
+reconstruction setting on measurement variability. Eur Radiol.
+2010;20:1180–7.
+37. Ignatius Ou SH, Zell JA. The applicability of the proposed IASLC
+staging revisions to small cell lung cancer (SCLC) with comparison to the current UICC 6th TNM edition. J Thorac Oncol.
+2009;4(3):300–10.
+38. Kalemkerian GP, Akerley W, Bogner P, et al. Small cell lung cancer.
+J Natl Compr Cancer Netw. 2013;11(1):78–98.
+39. Nicholson AG, Chansky K, Crowley J, et al. The International
+Association for the Study of Lung Cancer lung cancer staging
+project: proposals for the revision of the clinical and pathologic
+staging of small cell lung cancer in the forthcoming eighth edition of the TNM classification for lung cancer. J Thorac Oncol.
+2016;11(3):300–11.
+
+Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.
+org/licenses/by/4.0/), which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license and indicate if changes were made.
+The images or other third party material in this chapter are included in the chapter's Creative Commons license, unless indicated otherwise in
+a credit line to the material. If material is not included in the chapter's Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder.
+
+

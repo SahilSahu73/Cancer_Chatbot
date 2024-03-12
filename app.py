@@ -10,8 +10,11 @@ from fastapi.encoders import jsonable_encoder
 from qdrant_client import QdrantClient
 from langchain_community.vectorstores import Qdrant 
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
-import os
+from dotenv import load_dotenv
 import json
+import os
+
+load_dotenv()
 
 app = FastAPI()
 
@@ -31,10 +34,10 @@ llm = LlamaCpp(
 print("LLM Initialized......")
 
 prompt_template = """Use the following pieces of information to answer the user's question.
-If you don't know the answer, just say don't know, don't try to make up an answer.
+If you don't know the answer, just say don't know.
 Context: {context}
 Question: {question}
-Only return the helpful answer. Answer must be detailed and well explained.
+Only return helpful answer in detail.
 Helpful answer:
 """
 
@@ -52,18 +55,19 @@ Helpful answer:
 
 embeddings = SentenceTransformerEmbeddings(model_name="NeuML/pubmedbert-base-embeddings")
 
-url = 'http://localhost:6333'
+url = os.getenv("Qdrant_HOST")
 
 client = QdrantClient(
     url=url,
+    api_key=os.getenv("Qdrant_API_KEY"),
     prefer_grpc=False
 )
 
-db = Qdrant(client=client, embeddings=embeddings, collection_name='CancerData')
+db = Qdrant(client=client, embeddings=embeddings, collection_name='CancerDataPart1')
 
 prompt = PromptTemplate(template=prompt_template, input_variables=['context', 'question'])
 
-retriever = db.as_retriever(search_kwargs={"k":2})
+retriever = db.as_retriever(search_kwargs={"k":1})
 
 @app.get("/", response_class=HTMLResponse)
 async def read_root(request: Request):
@@ -77,7 +81,7 @@ async def get_response(query: str = Form(...)):
     print(response)
     answer = response['result']
     source_document = response['source_documents'][0].page_content
-    doc = response['source_documents'][0].metadata['source']
+    doc = response['source_documents'][0].metadata['_collection_name']
 
     # if target_language:
     #     translated_answer = translate_to_indic_language(answer, target_language)
