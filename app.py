@@ -41,18 +41,6 @@ Only return helpful answer in detail.
 Helpful answer:
 """
 
-# # Initialize translation model and tokenizer
-# translation_model_name = "ai4bharat/IndicBARTSS"
-# translation_model = AutoModelForSeq2SeqLM.from_pretrained(translation_model_name)
-# translation_tokenizer = AutoTokenizer.from_pretrained(translation_model_name)
-
-# def translate_to_indic_language(text, target_language):
-#     inputs = translation_tokenizer(text, return_tensors="pt")
-#     translated_tokens = translation_model.generate(**inputs)
-#     translated_text = translation_tokenizer.batch_decode(translated_tokens, skip_special_tokens=True)[0]
-#     return translated_text
-
-
 embeddings = SentenceTransformerEmbeddings(model_name="NeuML/pubmedbert-base-embeddings")
 
 url = os.getenv("Qdrant_HOST")
@@ -83,14 +71,8 @@ async def get_response(query: str = Form(...)):
     source_document = response['source_documents'][0].page_content
     doc = response['source_documents'][0].metadata['_collection_name']
 
-    # if target_language:
-    #     translated_answer = translate_to_indic_language(answer, target_language)
-    # else:
-    #     translated_answer = answer  # No translation if no language chosen
-
     response_data = jsonable_encoder(json.dumps({
         "answer": answer,
-        # "translated_answer":translated_answer, 
         "source_document": source_document, 
         "doc": doc
     }))
