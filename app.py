@@ -43,15 +43,14 @@ Helpful answer:
 
 embeddings = SentenceTransformerEmbeddings(model_name="NeuML/pubmedbert-base-embeddings")
 
-url = os.getenv("Qdrant_HOST")
+# url = os.getenv("Qdrant_HOST")
 
 client = QdrantClient(
-    url=url,
-    api_key=os.getenv("Qdrant_API_KEY"),
-    prefer_grpc=False
+    url= 'https://428bf2a1-62eb-495a-8a2f-90919827ca0b.us-east4-0.gcp.cloud.qdrant.io:6333',
+    api_key='Z5w9lFdKr30tZk6E6tbScx6nXLFBAGf4uJsWRlPoZuvSlucdaMmfXw'
 )
 
-db = Qdrant(client=client, embeddings=embeddings, collection_name='CancerDataPart1')
+db = Qdrant(client=client, embeddings=embeddings, collection_name='CancerData')
 
 prompt = PromptTemplate(template=prompt_template, input_variables=['context', 'question'])
 
@@ -69,7 +68,7 @@ async def get_response(query: str = Form(...)):
     print(response)
     answer = response['result']
     source_document = response['source_documents'][0].page_content
-    doc = response['source_documents'][0].metadata['_collection_name']
+    doc = response['source_documents'][0].metadata['source']
 
     response_data = jsonable_encoder(json.dumps({
         "answer": answer,
